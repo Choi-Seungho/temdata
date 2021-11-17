@@ -1,4 +1,4 @@
-Patient.ID,irRECIST,Study.site,Gender,Age
+PatientID,irRECIST,Study.site,Gender,Age
 Pt1,Progressive Disease,UCLA,Female,66
 Pt2,Partial Response,UCLA,Male,55
 Pt4,Partial Response,UCLA,Male,62
